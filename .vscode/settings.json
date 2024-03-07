@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": ["./twilio.rest"],
+  "files.associations": {
+    "iostream": "cpp"
+  }
+}
